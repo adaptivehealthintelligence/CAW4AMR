@@ -1,0 +1,6 @@
+"patient_id","likely_causes_p","likely_contaminants_p"
+"P01","No growth","Not reported"
+"P02","No growth","Not reported"
+"P03","No growth","staphylococcus sp"
+"P04","Multiple: 'acinetobacter baumannii','klebsiella pneumoniae'","Not reported"
+"P05","Multiple: 'escherichia coli','klebsiella pneumoniae'","Not reported"
