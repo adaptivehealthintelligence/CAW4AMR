@@ -85,3 +85,8 @@ Streptomyces violaceoruber,contaminant,low,,
 Streptomyces violaceoruber,contaminant,low,,
 Trueperella spp.,contaminant,low,,
 Virgibacillus spp.,contaminant,low,,
+Burkholderia spp.,definite,high,,Burkholderia cepacia complex = true pathogen
+Stenotrophomonas maltophilia,definite,high,,
+Pandoraea spp.,contaminant,low,,environmental / rare opportunist - review
+Stachybotrys spp.,contaminant,low,,environmental mould - review
+Pseudomonas spp.,contaminant,low,,non-aeruginosa Pseudomonas - likely contaminant (P. aeruginosa = definite)
